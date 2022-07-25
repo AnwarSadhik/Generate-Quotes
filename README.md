@@ -1,1 +1,1 @@
-# Generate-Quotes
+get random Quotes 
