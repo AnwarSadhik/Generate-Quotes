@@ -1,1 +1,3 @@
-get random Quotes 
+Get random quotes 
+
+🔗 https://anwarsadhik.github.io/Generate-Quotes/
